@@ -1,0 +1,22 @@
+html,body {
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+
+.container {
+    width: 100%;
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.div-imagens {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+
+}
